@@ -1,0 +1,11 @@
+<svg id="calculator-balance" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77.671" height="77.671" viewBox="0 0 77.671 77.671">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.077" y1="-0.156" x2="1" y2="1.095" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9679bc"/>
+      <stop offset="1" stop-color="#eb429f"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_19" data-name="Path 19" d="M0,0H77.671V77.671H0Z" fill="none"/>
+  <path id="Path_20" data-name="Path 20" d="M61.253,17.324V9.694A6.605,6.605,0,0,0,54.78,3H9.473A6.584,6.584,0,0,0,3,9.694V56.548a6.584,6.584,0,0,0,6.473,6.694H54.78a6.605,6.605,0,0,0,6.473-6.694V48.918a6.738,6.738,0,0,0,3.236-5.756V23.081a6.738,6.738,0,0,0-3.236-5.756Zm-3.236,5.756V43.161H35.363V23.081ZM9.473,56.548V9.694H54.78v6.694H35.363a6.605,6.605,0,0,0-6.473,6.694V43.161a6.605,6.605,0,0,0,6.473,6.694H54.78v6.694Z" transform="translate(6.709 5.714)" fill="url(#linear-gradient)"/>
+  <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="4.854" cy="4.357" rx="4.854" ry="4.357" transform="translate(46.926 34.478)" fill="url(#linear-gradient)"/>
+</svg>

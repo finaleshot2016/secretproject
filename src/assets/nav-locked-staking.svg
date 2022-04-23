@@ -1,0 +1,10 @@
+<svg id="nav-locked-staking" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.671" height="36.012" viewBox="0 0 37.671 36.012">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.094" y1="-0.175" x2="0.882" y2="1.092" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9679bc"/>
+      <stop offset="1" stop-color="#eb429f"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_9" data-name="Path 9" d="M0,0H37.671V36.012H0Z" fill="none"/>
+  <path id="Path_10" data-name="Path 10" d="M22.975,4A12.286,12.286,0,0,0,10.418,16a12.286,12.286,0,0,0,12.557,12A12.286,12.286,0,0,0,35.531,16,12.286,12.286,0,0,0,22.975,4Zm0,21.007a9.225,9.225,0,0,1-9.418-9,9.225,9.225,0,0,1,9.418-9,9.225,9.225,0,0,1,9.418,9A9.225,9.225,0,0,1,22.975,25.007ZM4.139,16a9.026,9.026,0,0,1,6.278-8.478V4.39A12.108,12.108,0,0,0,1,16a12.108,12.108,0,0,0,9.418,11.614V24.482A9.026,9.026,0,0,1,4.139,16Z" transform="translate(0.57 2.002)" fill="url(#linear-gradient)"/>
+</svg>

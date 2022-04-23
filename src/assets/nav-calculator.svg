@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="36" viewBox="0 0 37 36">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.106" y1="-0.165" x2="1" y2="1.137" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9679bc"/>
+      <stop offset="1" stop-color="#eb429f"/>
+    </linearGradient>
+  </defs>
+  <g id="nav-calculator" transform="translate(0.129 -0.022)">
+    <g id="Group_1" data-name="Group 1" transform="translate(0 0)">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="37" height="36" transform="translate(-0.129 0.022)" fill="none"/>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(0.871 5.022)">
+      <g id="Group_2" data-name="Group 2">
+        <path id="Path_8" data-name="Path 8" d="M32.487,4H4.149A3.087,3.087,0,0,0,1,7V26.507a3.087,3.087,0,0,0,3.149,3H32.487a3.087,3.087,0,0,0,3.149-3V7A3.087,3.087,0,0,0,32.487,4Zm0,22.507H4.149V7H32.487ZM13.595,10h3.149v3H13.595ZM7.3,10h3.149v3H7.3Zm4.723,12H24.615v1.5H12.021Zm7.872-12h3.149v3H19.892Zm-6.3,6h3.149v3H13.595ZM7.3,16h3.149v3H7.3Zm12.595,0h3.149v3H19.892Zm6.3-6h3.149v3H26.19Zm0,6h3.149v3H26.19Z" transform="translate(-1 -4)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

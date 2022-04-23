@@ -1,0 +1,14 @@
+<svg id="dashboard-holders" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70.358" height="48.916" viewBox="0 0 70.358 48.916">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.29" y1="0.117" x2="0.765" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9679bc"/>
+      <stop offset="1" stop-color="#eb429f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_35" data-name="Group 35" transform="translate(0 0)">
+    <path id="Path_28" data-name="Path 28" d="M16.67,13.13c4.381,2.843,7.452,6.7,7.452,11.832v9.172H36.914V24.962C36.914,18.3,25.5,14.353,16.67,13.13Z" transform="translate(33.444 14.783)" fill="url(#linear-gradient)"/>
+    <path id="Path_29" data-name="Path 29" d="M17.923,28.458c7.068,0,12.792-5.472,12.792-12.229S24.991,4,17.923,4a13.913,13.913,0,0,0-4.253.734,17.66,17.66,0,0,1,0,22.99A13.913,13.913,0,0,0,17.923,28.458Z" transform="translate(26.85 -4)" fill="url(#linear-gradient)"/>
+    <path id="Path_30" data-name="Path 30" d="M17.792,28.458c7.068,0,12.792-5.472,12.792-12.229S24.86,4,17.792,4,5,9.472,5,16.229,10.725,28.458,17.792,28.458Zm0-18.343a6.279,6.279,0,0,1,6.4,6.114,6.279,6.279,0,0,1-6.4,6.114,6.279,6.279,0,0,1-6.4-6.114A6.279,6.279,0,0,1,17.792,10.114Z" transform="translate(7.792 -4)" fill="url(#linear-gradient)"/>
+    <path id="Path_31" data-name="Path 31" d="M26.585,13C18.046,13,1,17.1,1,25.229V34.4H52.169V25.229C52.169,17.1,35.123,13,26.585,13ZM45.773,28.286H7.4V25.26c.64-2.2,10.554-6.145,19.188-6.145s18.549,3.944,19.188,6.114Z" transform="translate(-1 14.515)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

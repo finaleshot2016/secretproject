@@ -1,0 +1,10 @@
+<svg id="nav-lottery" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.671" height="36.012" viewBox="0 0 37.671 36.012">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.267" y1="0.084" x2="0.867" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9679bc"/>
+      <stop offset="1" stop-color="#eb429f"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_11" data-name="Path 11" d="M0,0H37.671V36.012H0Z" fill="none"/>
+  <path id="Path_12" data-name="Path 12" d="M33.392,12.864l-11.285-.93L17.7,2l-4.411,9.948L2,12.864l8.57,7.1L8,30.509l9.7-5.6,9.7,5.6L24.838,19.961ZM17.7,22.107l-5.9,3.406,1.57-6.422L8.153,14.769l6.875-.57L17.7,8.152l2.684,6.062,6.875.57-5.211,4.321,1.57,6.422Z" transform="translate(1.139 1.001)" fill="url(#linear-gradient)"/>
+</svg>
