@@ -189,13 +189,14 @@ export const EtherContextProvider = ({ children }) => {
     setWalletData((prevData) => ({
       balance, balanceInUSD, AVAXbalance, AVAXbalanceInUSD
     }));
-  }, [getAccountBalance, dashboardData.price , getAVAXBalance, dashboardData.avaxPrice]);
+  }, [getAccountBalance, dashboardData.price, user, getAVAXBalance, dashboardData.avaxPrice]);
 
-  useEffect((user) => {
+  useEffect(() => {
     if (user) {
       calculateWallet();
     }
   }, [user, location.pathname, calculateWallet]);
+
 
   // On page load
   const fetchData = useCallback(async () => {
