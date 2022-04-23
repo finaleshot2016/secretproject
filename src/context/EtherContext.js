@@ -195,7 +195,7 @@ export const EtherContextProvider = ({ children }) => {
     if (user) {
       calculateWallet();
     }
-  }, [user, location.pathname, calculateWallet]);
+  }, [location.pathname, calculateWallet]);
 
 
   // On page load
