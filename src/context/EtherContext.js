@@ -132,7 +132,7 @@ export const EtherContextProvider = ({ children }) => {
     const firepitPercentage = (totalSupply - circulatingSupply) / totalSupply * 100;
 
     return parseFloat(firepitPercentage).toFixed(2);
-  }, [otoContract]);
+  }, []);
   // const lockTokens = async (amount, days) => {
   //   const daysInSeconds = days * 86400; //86400 seconds per day
   //   let signer = this.procMetamask();
@@ -191,7 +191,7 @@ export const EtherContextProvider = ({ children }) => {
     }));
   }, [getAccountBalance, dashboardData.price , getAVAXBalance, dashboardData.avaxPrice]);
 
-  useEffect(() => {
+  useEffect((user) => {
     if (user) {
       calculateWallet();
     }
