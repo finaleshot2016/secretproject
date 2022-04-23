@@ -1,14 +1,10 @@
-import React, { useContext, useEffect } from 'react';
-import { Title, Text, Image, SimpleGrid, Button } from '@mantine/core';
+import React, { useContext } from 'react';
+import { Title, Text, Image, SimpleGrid } from '@mantine/core';
 import EtherContext from '../../context/EtherContext';
-import SuccessNotification from '../../components/Feedback/SuccessNotification';
 import Card from '../../components/Card/Card';
 import { ReactComponent as Wallet } from '../../assets/account-balance.svg';
 import { ReactComponent as Avax } from '../../assets/account-avax.svg';
 import { ReactComponent as AvaxPrice } from '../../assets/account-avaxprice.svg';
-import avalanche from '../../assets/account-avalanche.png';
-// import oto from '../../assets/account-oto.png';
-
 import gradient4 from '../../assets/gradient-4.png';
 import gradient5 from '../../assets/gif1.gif';
 import useStyles from './Account.styles';
